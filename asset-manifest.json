@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toolKit/static/css/main.5763847e.css",
+    "main.js": "/toolKit/static/js/main.a185ba06.js",
+    "index.html": "/toolKit/index.html",
+    "main.5763847e.css.map": "/toolKit/static/css/main.5763847e.css.map",
+    "main.a185ba06.js.map": "/toolKit/static/js/main.a185ba06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5763847e.css",
+    "static/js/main.a185ba06.js"
+  ]
+}
